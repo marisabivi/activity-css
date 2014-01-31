@@ -20,7 +20,7 @@ ol {
 }
     
 li {
-    color:000000;
+    color:#000000;
 }
 
 ol li:first-child {
@@ -33,12 +33,12 @@ ol li:last-child {
 
 h3 {
     font-family: "Italia Std", monospace, serif;
-    font-size: 1.75rem
+    font-size: 1.75rem;
 }
 
 h6 {
     font-family:"Bell Centennial", sans-serif,;
-    font-weight:normal
+    font-weight:normal;
 }
 
 em {
