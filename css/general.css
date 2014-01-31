@@ -1,0 +1,54 @@
+/* CSS Document */
+
+html {
+    font-family: "Interstate light", Helvetica, Arial, sans-serif;
+    font-size: .75rem
+}
+
+body {
+    background-color: #6699FF;
+}
+
+h1 {
+    font-family: Garamond, Georgia, "Times New Roman", serif;
+    color: #CCCC66;
+}
+
+ul, 
+ol {
+    background-color: #FFF;
+}
+    
+li {
+    color:000000;
+}
+
+ol li:first-child {
+    background-color: #000;
+}
+
+ol li:last-child {
+    background-color: #F90;
+}
+
+h3 {
+    font-family: "Italia Std", monospace, serif;
+    font-size: 1.75rem
+}
+
+h6 {
+    font-family:"Bell Centennial", sans-serif,;
+    font-weight:normal
+}
+
+em {
+font-style: italic;
+}
+
+strong {
+    font-weight: bold;
+}
+
+p strong {
+    color: #330033;
+}
